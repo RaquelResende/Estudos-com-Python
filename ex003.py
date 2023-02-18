@@ -1,0 +1,5 @@
+n = input("Digite algo:")
+print("É maiúsculo?", n.isupper())
+print("É um número", n.isnumeric())
+print("Tem espaço ?", n.isalpha())
+print("Tem números e letras:", n.isalnum())
