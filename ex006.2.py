@@ -8,3 +8,5 @@ elif nota <= 7:
 
 else:
     print("Aprovado")
+
+    
